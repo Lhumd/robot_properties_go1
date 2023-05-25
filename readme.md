@@ -66,6 +66,6 @@ pip3 install .
 
 ### License and Copyrights
 
-Copyright(c) 2018-2021 Max Planck Gesellschaft, New York University
+Copyright(c) 2022-2023
 
 BSD 3-Clause License
